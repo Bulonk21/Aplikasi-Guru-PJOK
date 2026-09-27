@@ -1,0 +1,6 @@
+{
+  "name": "PJOK SMART - MTsN Kota Sukabumi",
+  "description": "Aplikasi Mobile-First Pembelajaran & Presensi PJOK MTsN Kota Sukabumi berbasis Vanilla JS & LocalStorage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
